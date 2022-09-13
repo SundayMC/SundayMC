@@ -1,9 +1,7 @@
-## Salut 👋
+## Hi 👋
 
-Voici ma page GitHub !
+This is my GitHub page!
 
-Vous trouverez ici tous mes petits projets de développement !
+You'll find here all my little development projects!
 
-Je suis en train de créer une map minecraft... Pour plus d'informations, rendez vous sur notre [site](tntwars.oqitopia.fr) !
-
-<img src="https://crafatar.com/avatars/eb2d09875dd845fb90e81e11616ec6c0.png" style="width: 100px; height: 100px;">
+I'm currently creating a minecraft map... I am the vice president of the computer club of my high school, you can see our accounts in my organisations 
